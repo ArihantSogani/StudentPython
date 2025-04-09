@@ -34,8 +34,7 @@ platform (for OS detection)
 
 📥 Installation
 
-# Clone the repository
-git clone https://github.com/username/student-management-system.git
+
 
 # Navigate to the project directory
 cd student-management-system
